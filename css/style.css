@@ -29,8 +29,7 @@ img {
 footer {
 	text-align: center;
 	clear: both;
-	height: 20%;
-	background-image: url("../images/catedral.png");
+	background-image: url("../images/catedral2.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: top;
@@ -46,7 +45,7 @@ footer em {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 46px;
 }
 
 h2 {
@@ -103,7 +102,7 @@ nav a:active {
 }
 
 nav h3 {
-	background-color: rgb(230, 177, 78);
+	background-color: rgb(89, 141, 163);
 	padding: 15px 30px;
 	margin-top: 0px;
 	color: white;
