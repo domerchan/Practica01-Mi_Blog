@@ -44,6 +44,32 @@ footer em {
 	font-size: 12px;
 }
 
+form {
+	margin: 50px 70px 10px 0px;
+	padding: 10px;
+	border: 0.5px solid;
+	border-radius: 10px;
+	text-align: center;
+}
+
+form h4 {
+	display: inline;
+	margin: 30px 10px;
+}
+
+form button {
+	font-size: 18px;
+	border-radius: 5px;
+	background-color: rgb(89, 141, 163);
+	color: white;
+	width: 100px;
+}
+
+td input {
+	width: 500px;
+	padding-top: 10px;
+}
+
 h1 {
 	font-size: 46px;
 }
@@ -121,6 +147,19 @@ tr, th, td {
 	border: 0.3px solid;
 	text-align: center;
 	width: auto;
+}
+
+#tabla2 td {
+	border: none;
+	padding: 5px;
+}
+
+#tabla2 tr {
+	border: none;
+}
+
+#tabla2 th {
+	border: none;
 }
 
 #top {
