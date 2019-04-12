@@ -1,0 +1,27 @@
+nav {
+	clear: both;
+	float: left;
+	width: 20%;
+}
+
+article {
+	float: left;
+	width: 73%;
+	margin-right: 2%;
+}
+
+.aside {
+	float: left;
+	width: 25%;
+}
+
+#seccion header {
+	width: 100%;
+	clear: both;
+}
+
+#seccion {
+	float: left;
+	width: 77%;
+	margin-left: 2%;
+}
